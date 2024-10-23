@@ -2,13 +2,11 @@
 <h3 align="center">A passionate Software Developer from Lebanon</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarhini&label=Profile%20views&color=0e75b6&style=flat" alt="tarhini" />
 </p>
 
 ---
 
 ### About Me
-- 🌱 I’m currently improving my skills in **ASP.NET, C#, and Python**.
 - 💡 I love exploring new technologies and building innovative solutions.
 - 📫 You can reach me at tarhinimohammadbaker@gmail.com
 
@@ -42,18 +40,4 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarhini&show_icons=true&locale=en" alt="tarhini" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarhini&show_icons=true&locale=en&layout=compact" alt="tarhini" />
-</p>
-
----
-
-### 🔥 Recent Activity
-- 🏆 GitHub Profile Trophy: [![trophy](https://github-profile-trophy.vercel.app/?username=tarhini&theme=gruvbox&no-bg=true&no-frame=true&margin-w=15)](https://github.com/tarhini)
-
 
