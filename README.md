@@ -1,5 +1,4 @@
 
-<h1 align="center">A Passionate Developer, Analytical Thinker & Solution Architect from Lebanon </h1>
 <h2 align="center" >Analytical thinking and finding unique and different  solutions are my life—problem-solving is where I thrive.</h2>
 <p align="center">
 </p>
