@@ -1,5 +1,5 @@
 
-<h2 align="center" >Analytical thinking and finding unique and different  solutions are my life—problem-solving is where I thrive.</h2>
+<h2 align="center" >Analytical thinking and finding unique and different solutions are my life—problem-solving is where I thrive.</h2>
 <p align="center">
 </p>
 
