@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Baker Tarhini</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Software Developer from Lebanon</h3>
 
 <p align="center">
