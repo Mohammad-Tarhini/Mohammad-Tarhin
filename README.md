@@ -1,5 +1,5 @@
-<h1 align="center"></h1>
-<h3 align="center">A passionate Software Developer from Lebanon</h3>
+
+<h1 align="center">A Passionate Developer, Analytical Thinker & Solution Architect from Lebanon 🇱🇧</h1>
 
 <p align="center">
 </p>
