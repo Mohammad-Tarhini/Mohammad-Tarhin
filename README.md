@@ -5,10 +5,10 @@
 </p>
 
 👨‍💻 Who I Am
-🌟 Tech Explorer: Driven by curiosity, I’m always diving into the latest technologies and finding fresh, impactful ways to bring concepts to life.
-🧠 Problem-Solving Enthusiast: There’s nothing more satisfying than cracking a tough problem, especially if it's algorithmic or data-driven!
-🚀 Dream Builder: Building innovative solutions and exploring complex software challenges are what I’m passionate about.
-📫 Connect with Me: Feel free to reach out at tarhinimohammadbaker@gmail.com.
+🌟 Tech Explorer: Driven by curiosity, I’m always diving into the latest technologies and finding fresh, impactful ways to bring concepts to life.<br>
+🧠 Problem-Solving Enthusiast: There’s nothing more satisfying than cracking a tough problem, especially if it's algorithmic or data-driven!<br>
+🚀 Dream Builder: Building innovative solutions and exploring complex software challenges are what I’m passionate about.<br>
+📫 Connect with Me: Feel free to reach out at tarhinimohammadbaker@gmail.com.<br>
 
 
 ### 🛠 Languages and Tools
