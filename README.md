@@ -34,6 +34,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-
+<h3></h3>Coding isn’t about just printing lines of code; it’s about thinking deeply and passionately solving problems.</h3>
 ---
 
