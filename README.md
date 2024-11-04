@@ -3,10 +3,14 @@
 <p align="center">
 </p>
 
-👨‍💻 Who I Am <br><br>
+ Who I Am <br><br>
+ 👨‍💻 Skilled in:  building end-to-end projects with ASP.NET, Telerik ASP.NET AJAX, and C#—from designing intuitive user interfaces to seamlessly connecting databases.
 🌟 Tech Explorer: Driven by curiosity, I’m constantly diving into new technologies to satisfy my desire for discovery.<br><br>
 🧠 Problem-Solving Enthusiast: There’s nothing more satisfying than cracking a tough problem, especially if it's algorithmic or data-driven <br><br>
 🚀 Dream Builder: Building innovative solutions and exploring complex software challenges are what I’m passionate about.<br><br>
+
+
+
 📫 Connect with Me: Feel free to reach out at tarhinimohammadbaker@gmail.com.<br><br>
 
 
