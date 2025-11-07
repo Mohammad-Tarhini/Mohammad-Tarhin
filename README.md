@@ -29,7 +29,7 @@
     <td width="30%">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tarhini-01&show_icons=true&theme=radical&hide_border=true" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&show_icons=true&theme=radical&hide_border=true" width="100%">
       </div>
     </td>
   </tr>
