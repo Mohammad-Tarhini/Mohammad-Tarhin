@@ -7,7 +7,32 @@
     <a href="https://www.linkedin.com/in/mohammad-baker-tarhini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
   </div>
-About Me <br><br>
+<h1 align="center">
+  👨‍💻 About Me 👨‍💻
+</h1>
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+        I'm a passionate <b>Full Stack Developer</b> with a strong interest in creating impactful digital experiences that solve real-world problems. My journey in tech is driven by curiosity and a desire to continuously grow.
+      </p>
+      <ul>
+        <li>🚀 Building modern web applications with React, Next.js, and Node.js ecosystems</li>
+        <li>💡 Transforming complex problems into elegant, scalable solutions</li>
+        <li>🌱 Currently advancing my skills in system architecture and AI integration</li>
+        <li>🌐 Based in Lebanon 🇱🇧 and collaborating globally on impactful projects</li>
+        <li>🎯 Mission: Creating software that makes a meaningful difference</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mahdi-talal-01&show_icons=true&theme=radical&hide_border=true" width="100%">
+      </div>
+    </td>
+  </tr>
+</table>
+
  👨‍💻 Skilled in:  building end-to-end projects from designing intuitive user interfaces to seamlessly connecting databases.<br><br>
 🌟 Tech Explorer: Driven by curiosity, I’m constantly diving into new technologies to satisfy my desire for discovery.<br><br>
 🧠 Problem-Solving Enthusiast: There’s nothing more satisfying than cracking a tough problem, especially if it's algorithmic or data-driven <br><br>
