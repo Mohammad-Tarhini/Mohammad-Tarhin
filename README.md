@@ -17,7 +17,7 @@
         I'm a passionate <b>Full Stack Developer</b> with a strong interest in creating impactful digital experiences that solve real-world problems.
       </p>
       <ul>
-        <li>🚀 Building modern web applications with React</li>
+        <li>🚀 Building modern web applications </li>
         <li>💡 Transforming complex problems into elegant, scalable solutions</li>
         <li> 👨‍💻building end-to-end projects from designing to seamlessly connecting databases</li>
         <li>🧠 Problem-Solving Enthusiast: There’s nothing more satisfying than cracking a tough problem</li>
