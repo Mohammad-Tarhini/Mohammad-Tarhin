@@ -1,5 +1,5 @@
 
-<h2 align="center" >Analytical thinking and uncovering unique solutions are my passion problem solving is where I truly thrive..</h2>
+<h2 align="center" >Hello , I'm Mohammad Baker Tarhini</h2>
 <p align="center">
 </p>
   <div align="center"> 
@@ -21,6 +21,15 @@
         <li>💡 Transforming complex problems into elegant, scalable solutions</li>
         <li> 👨‍💻building end-to-end projects from designing to seamlessly connecting databases</li>
         <li>🧠 Problem-Solving Enthusiast: There’s nothing more satisfying than cracking a tough problem</li>
+      </ul>
+    </td>
+
+         <td width="30%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Tarhin-01&show_icons=true&theme=radical&hide_border=true" width="100%">
+      </div>
+    </td>
     
 </table>
 
@@ -45,6 +54,14 @@ Front-End
 <p> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a></p>
 
 </p>
+
+## Most Used Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Tarhini&layout=compact&theme=radical&hide=html,css,javascript,scss)](https://github.com/Mohammad-Tarhini)
+
+## 📊 GitHub Stats
+
+[![My Contributions](https://github-readme-stats.vercel.app/api?username=Mohammad-Tarhini&show_icons=true&theme=radical)](https://github.com/Mohammad-Tarhini)
 <h3></h3>Coding isn’t about just printing lines of code; it’s about thinking deeply and passionately solving problems.</h3>
 ---
 
