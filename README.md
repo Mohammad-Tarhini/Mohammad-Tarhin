@@ -21,11 +21,6 @@
         <li>💡 Transforming complex problems into elegant, scalable solutions</li>
         <li> 👨‍💻building end-to-end projects from designing to seamlessly connecting databases</li>
         <li>🧠 Problem-Solving Enthusiast: There’s nothing more satisfying than cracking a tough problem</li>
-        
-       
-        
-      </ul>
-    </td>
     
 </table>
 
