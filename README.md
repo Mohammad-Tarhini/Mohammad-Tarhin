@@ -1,5 +1,5 @@
 
-<h2 align="center" >Analytical thinking and uncovering unique solutions are my passion—problem-solving is where I truly thrive..</h2>
+<h2 align="center" >Analytical thinking and uncovering unique solutions are my passion problem solving is where I truly thrive..</h2>
 <p align="center">
 </p>
   <div align="center"> 
